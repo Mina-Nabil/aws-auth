@@ -1,0 +1,63 @@
+[
+    {
+        "id": "0861a203-7a79-4606-bf86-748530ff9a9b",
+        "name": "view-any-file",
+        "display_name": "View any file",
+        "description": "View any file metadata",
+        "group": "files",
+        "default_roles": ["super-admin", "admin"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "ebafe907-63b8-4563-bc28-6a8d239ddc5a",
+        "name": "download-any-file",
+        "display_name": "Download any file",
+        "description": "Download any file",
+        "group": "files",
+        "default_roles": ["super-admin", "admin"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "35ada397-23cc-478c-89f5-04ba2d048a07",
+        "name": "show-file",
+        "display_name": "View file",
+        "description": "View & download file if it is linked to an entity accessible by the user",
+        "group": "files",
+        "default_roles": ["super-admin", "admin", "user"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "0b2b3bf5-781b-4347-9490-d9cf75cb1de6",
+        "name": "create-file",
+        "display_name": "Create file",
+        "description": "Create & upload a file",
+        "group": "files",
+        "default_roles": ["super-admin", "admin", "user"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "c6e778d6-e922-4a74-9c0d-60a302d46e83",
+        "name": "update-file",
+        "display_name": "Update file",
+        "description": "Update file metadata",
+        "group": "files",
+        "default_roles": ["super-admin", "admin"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "48e42954-393e-47d9-9d6d-7e73713ec6d8",
+        "name": "delete-file",
+        "display_name": "Delete file",
+        "description": "Delete a file",
+        "group": "files",
+        "default_roles": ["super-admin", "admin"],
+        "version": 1,
+        "deprecated": false
+    }
+
+]

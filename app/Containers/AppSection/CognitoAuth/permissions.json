@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b0da5c2b-269e-4ab9-bd03-e83b7703d703",
+    "name": "confirm-cognito-sign-up",
+    "display_name": "Confirm Cognito Sign Up",
+    "description": "Admin-confirm a user's Cognito sign-up (no confirmation code required)",
+    "group": "cognito-auth",
+    "default_roles": ["super-admin", "admin"],
+    "version": 1,
+    "deprecated": false
+  }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "e6d20a1e-e2cb-4d32-87b4-5e47d8e82865",
+        "name": "list-usertables",
+        "display_name": "List usertables",
+        "description": "List usertables by table name and logged in user",
+        "group": "usertables",
+        "default_roles": ["super-admin", "admin", "user"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "7859bf19-b3ec-4f0f-a063-2e82024695b5",
+        "name": "create-or-update-usertable",
+        "display_name": "Create or update usertable",
+        "description": "Create or update usertable for logged in user by table name",
+        "group": "usertables",
+        "default_roles": ["super-admin", "admin", "user"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "3c44157f-affa-425e-8dd8-656e2cdb8e00",
+        "name": "delete-usertable",
+        "display_name": "Delete usertable",
+        "description": "Delete usertable by table name and logged in user",
+        "group": "usertables",
+        "default_roles": ["super-admin", "admin", "user"],
+        "version": 1,
+        "deprecated": false
+    }
+]

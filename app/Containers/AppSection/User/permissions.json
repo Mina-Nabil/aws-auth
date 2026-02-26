@@ -1,0 +1,142 @@
+[
+    {
+        "id": "01928a1b-4c7e-7890-b123-456789abcdef",
+        "name": "view-any-user",
+        "display_name": "View any user",
+        "description": "View any user details",
+        "group": "users",
+        "default_roles": ["super-admin", "admin"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "01928a1b-5d8f-9abc-c234-567890bcdef0",
+        "name": "view-my-user",
+        "display_name": "View my user",
+        "description": "View the logged in user details",
+        "group": "users",
+        "default_roles": ["super-admin", "admin", "user"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "01928a1b-6e9g-abcd-d345-678901cdef01",
+        "name": "create-user",
+        "display_name": "Create User",
+        "description": "Create new user",
+        "group": "users",
+        "default_roles": ["super-admin", "admin"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "01928a1b-7fah-bcde-e456-789012def012",
+        "name": "update-any-user",
+        "display_name": "Update any user",
+        "description": "Update any user details",
+        "group": "users",
+        "default_roles": ["super-admin", "admin"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "01928a1b-8gbi-cdef-f567-890123ef0123",
+        "name": "update-my-user",
+        "display_name": "Update my user",
+        "description": "Update my user details",
+        "group": "users",
+        "default_roles": ["super-admin", "admin", "user"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "01928a1b-9hcj-defg-g678-901234f01234",
+        "name": "update-any-user-password",
+        "display_name": "Update User Password",
+        "description": "Update user password",
+        "group": "users",
+        "default_roles": ["super-admin", "admin"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "01928a1b-aidk-efgh-h789-012345g12345",
+        "name": "update-my-user-password",
+        "display_name": "Update User Password",
+        "description": "Update user password",
+        "group": "users",
+        "default_roles": ["super-admin", "admin", "user"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "01928a1b-bjel-fghi-i890-123456h23456",
+        "name": "update-user-status",
+        "display_name": "Update User Status",
+        "description": "Update user status",
+        "group": "users",
+        "default_roles": ["super-admin", "admin"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "01928a1b-dlgn-hijk-k012-345678j45678",
+        "name": "delete-user",
+        "display_name": "Delete User",
+        "description": "Delete user",
+        "group": "users",
+        "default_roles": ["super-admin", "admin"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "38d0a66c-cfff-43ac-9454-70bafcb3f1d8",
+        "name": "list-user-files",
+        "display_name": "List user files",
+        "description": "List specificuser files",
+        "group": "users",
+        "default_roles": ["super-admin", "admin", "user"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "9780942e-3dc3-45fc-8693-4b6dcc3db25f",
+        "name": "attach-any-user-files",
+        "display_name": "Attach all user files",
+        "description": "Attach any file to all users",
+        "group": "users",
+        "default_roles": ["super-admin", "admin"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "77a6bced-fe45-4317-9e5a-0667a47521ca",
+        "name": "attach-user-files",
+        "display_name": "Attach user files",
+        "description": "Attach files to linked users only",
+        "group": "users",
+        "default_roles": ["super-admin", "admin", "user"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "4a8be679-6ff1-4e2c-9099-59baf43bf33a",
+        "name": "detach-any-user-files",
+        "display_name": "Detach any user files",
+        "description": "Detach any user files",
+        "group": "users",
+        "default_roles": ["super-admin", "admin"],
+        "version": 1,
+        "deprecated": false
+    },
+    {
+        "id": "64dc0bfd-0ad3-46db-9cd4-0dcef439f176",
+        "name": "detach-user-files",
+        "display_name": "Detach user files",
+        "description": "Detach user files",
+        "group": "users",
+        "default_roles": ["super-admin", "admin", "user"],
+        "version": 1,
+        "deprecated": false
+    }
+]
