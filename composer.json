@@ -41,7 +41,6 @@
         "barryvdh/laravel-dompdf": "^3.1",
         "darkaonline/l5-swagger": "^9.0",
         "laravel/passport": "^13.0",
-        "laravel/vapor-core": "^2.43",
         "league/flysystem-aws-s3-v3": "^3.29",
         "owen-it/laravel-auditing": "^14.0",
         "predis/predis": "^3.2",
